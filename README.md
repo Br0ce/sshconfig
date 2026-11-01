@@ -1,5 +1,7 @@
 # sshconfig
 
+[![ci](https://github.com/Br0ce/sshconfig/actions/workflows/ci.yml/badge.svg)](https://github.com/Br0ce/sshconfig/actions/workflows/ci.yml)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/Br0ce/sshconfig)](go.mod)
 [![Go Reference](https://pkg.go.dev/badge/github.com/Br0ce/sshconfig.svg)](https://pkg.go.dev/github.com/Br0ce/sshconfig)
 
 Your `~/.ssh/config`, resolved in Go the way OpenSSH does it.
